@@ -17,6 +17,6 @@ A simple To-Do application built with HTML, CSS, and JavaScript.
 - Structuring simple JavaScript logic
 
 ## Future Improvements
--edit button 
+- edit button 
 - Save tasks using local storage
 - Improve UI/UX
